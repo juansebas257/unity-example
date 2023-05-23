@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Orange
   - Deadly
+  - Enemy
   layers:
   - Default
   - TransparentFX
